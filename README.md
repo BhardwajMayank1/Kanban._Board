@@ -1,2 +1,5 @@
 # Kanban._Board
-A Kanban Board
+It is a Kanban Board
+<br>
+Author:Mayank Bhardwaj
+
